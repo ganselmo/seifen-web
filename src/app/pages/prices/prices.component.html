@@ -1,0 +1,20 @@
+<main class="grid grid-cols-1 mb-2 bg-white">
+
+
+  <div *ngFor="let category of categories">
+    <app-price-container [category]="category"></app-price-container>
+  </div>
+
+  <div class="font-inter font-semibold text-xl text-white text-center bg-dark px-5 py-0.5">Condiciones</div>
+  <div>
+    <div>
+      * Mínimo 20 litros(Total surtido a elección)
+    </div>
+    <div>
+      * Precios por litro
+    </div>
+    <div>
+      * Valor bidón 5 litros si no traes el tuyo:100
+    </div>
+  </div>
+</main>

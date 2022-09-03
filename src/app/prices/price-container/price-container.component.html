@@ -1,0 +1,8 @@
+<section class="grid grid-cols-1 mt-2 px-1 ">
+  <app-price-header [name]="category.name"></app-price-header>
+  <div class="mt-2 border-t-2 border-black">
+    <div class="border-b-2 border-black" *ngFor="let price of category.prices">
+      <app-price-item [price]='price'></app-price-item>
+    </div>
+  </div>
+</section>

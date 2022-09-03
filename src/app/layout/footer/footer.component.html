@@ -1,0 +1,55 @@
+<footer class="grid grid-cols-1 bg-mark justify-items-center  items-center py-7 px-3 ">
+  <section class=" grid grid-rows-3  w-full justify-items-center items-center justify-center align-center">
+
+    <div
+      (click)="navigate('https://www.google.com/maps/place/SEIFEN+Art%C3%ADculos+de+Limpieza/@-36.9056752,-60.3280309,21z/data=!4m5!3m4!1s0x959445aa866ebe9b:0x95f970a9d454bc6d!8m2!3d-36.905552!4d-60.3277151')"
+      class="grid grid-cols-[50px_2fr] gap-x-2 h-9 w-full justify-items-start items-center">
+
+      <div class="grid text-dark  justify-items-center items-center w-full pr-[3px]">
+
+        <fa-icon [icon]="['fas', 'map-pin']" size="2x"></fa-icon>
+      </div>
+      <div class="font-wide font-semibold text-xl text-white shadowed">
+        Av. Pueyrredón 3346
+      </div>
+    </div>
+    <div (click)="navigate('https://www.facebook.com/seifen.olava')"
+      class=" grid grid-cols-[50px_2fr] gap-x-2 h-9 w-full justify-items-start items-center">
+      <div class="grid text-dark   justify-items-center items-center w-full">
+
+        <fa-icon class="max-h-7  mb-1" [icon]="['fab', 'facebook-square']" size="2x"></fa-icon>
+
+      </div>
+
+      <div class="font-wide font-semibold text-xl text-white shadowed">
+        @seifen.olava
+      </div>
+    </div>
+
+    <div (click)="navigate('https://www.instagram.com/seifen.olav/')"
+      class="grid grid-cols-[50px_2fr] gap-x-2  h-9 w-full  justify-items-start items-center">
+
+      <div class="grid text-dark   justify-items-center items-center w-full">
+
+        <fa-icon class="max-h-7 mb-1" [icon]="['fab', 'instagram-square']" size="2x"></fa-icon>
+
+
+      </div>
+
+      <div class="font-wide font-semibold text-xl text-white shadowed">
+        @seifen.olav
+      </div>
+    </div>
+    <div (click)="navigate('https://wa.me/+5492284731179')"
+      class="grid grid-cols-[50px_2fr] gap-x-2  h-9 w-full justify-items-start items-center">
+      <div class="grid text-dark justify-items-center items-center w-full">
+        <fa-icon class="max-h-7 mb-1" [icon]="['fab', 'whatsapp-square']" size="2x">
+        </fa-icon>
+      </div>
+      <div class="font-wide font-semibold text-xl text-white shadowed">2284-731179</div>
+    </div>
+
+
+  </section>
+
+</footer>
