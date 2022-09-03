@@ -3,6 +3,16 @@
 @import 'tailwindcss/utilities';
 
 
-.shadowed{
-  text-shadow: 1.0px 1.0px rgb(0, 0, 0,0.3);
+@layer utilities {
+  @responsive {
+    .shadowed {
+      text-shadow: 1.0px 1.0px rgb(0, 0, 0, 0.3)
+    }
+
+
+
+    .shadowed-xl {
+      text-shadow: 3.0px 3.0px rgb(0, 0, 0, 0.4)
+    }
+  }
 }

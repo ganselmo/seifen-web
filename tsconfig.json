@@ -18,7 +18,8 @@
     "importHelpers": true,
     "target": "es2020",
     "module": "es2020",
-
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports":true,
     "strictPropertyInitialization": false,
     "lib": [
       "es2020",
@@ -29,6 +30,8 @@
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
-    "strictTemplates": true
+    "strictTemplates": true,
+
+
   }
 }
