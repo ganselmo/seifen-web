@@ -16,6 +16,11 @@
       "amount": 150
     },
     {
+      "category": "Suavizante",
+      "name": "Celeste Floral",
+      "amount": 150
+    },
+    {
       "category": "Perfuminas",
       "name": "Coco",
       "amount": 300
@@ -56,82 +61,72 @@
       "amount": 300
     },
     {
-      "category": "Detergente",
+      "category": "Detergentes",
       "name": "Limón",
-      "amount": 140
+      "amount": 150
     },
     {
       "category": "Jabón de Manos",
       "name": "Dove",
-      "amount": 160
+      "amount": 120
     },
     {
       "category": "Jabón de Manos",
       "name": "H&S",
-      "amount": 160
+      "amount": 120
     },
     {
-      "category": "Alcohol",
-      "name": "Líquido",
-      "amount": 350
-    },
-    {
-      "category": "Alcohol",
-      "name": "Gel",
-      "amount": 350
-    },
-    {
-      "category": "Piso",
+      "category": "Pisos",
       "name": "Floral",
       "amount": 40
     },
     {
-      "category": "Piso",
+      "category": "Pisos",
       "name": "Arpege",
       "amount": 40
     },
     {
-      "category": "Piso",
+      "category": "Pisos",
       "name": "Lavanda",
       "amount": 40
     },
     {
-      "category": "Piso",
+      "category": "Pisos",
       "name": "Marina",
       "amount": 40
     },
     {
-      "category": "Piso",
+      "category": "Pisos",
       "name": "Pino",
       "amount": 40
     },
     {
-      "category": "Piso",
+      "category": "Pisos",
       "name": "Papaya",
       "amount": 40
     },
     {
-      "category": "Piso",
+      "category": "Pisos",
       "name": "Citronella",
       "amount": 40
     },
     {
-      "category": "Piso",
+      "category": "Pisos",
       "name": "Limón verde",
       "amount": 40
     },
     {
-      "category": "Piso",
+      "category": "Pisos",
       "name": "Cherry",
       "amount": 40
     },
     {
-      "category": "Piso",
+      "category": "Pisos",
       "name": "Lyso",
       "amount": 55
     },
     {
-      "category": "Piso",
+      "category": "Pisos",
       "name": "Proce",
       "amount": 60
     },
@@ -146,19 +141,9 @@
       "amount": 150
     },
     {
-      "category": "Pileta",
+      "category": "Piletas",
       "name": "Cloro Líquido 100%",
       "amount": 90
-    },
-    {
-      "category": "Pileta",
-      "name": "Cloro Pastilla 50gr",
-      "amount": 120
-    },
-    {
-      "category": "Pileta",
-      "name": "Cloro pastilla 200gr",
-      "amount": 400
     }
   ]
 }
