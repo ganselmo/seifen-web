@@ -13,7 +13,7 @@
     {
       "category": "Suavizante",
       "name": "Blanco Nieve",
-      "amount": 150
+      "amount": 160
     },
     {
       "category": "Suavizante",
@@ -78,47 +78,47 @@
     {
       "category": "Pisos",
       "name": "Floral",
-      "amount": 40
+      "amount": 45
     },
     {
       "category": "Pisos",
       "name": "Arpege",
-      "amount": 40
+      "amount": 45
     },
     {
       "category": "Pisos",
       "name": "Lavanda",
-      "amount": 40
+      "amount": 45
     },
     {
       "category": "Pisos",
       "name": "Marina",
-      "amount": 40
+      "amount": 45
     },
     {
       "category": "Pisos",
       "name": "Pino",
-      "amount": 40
+      "amount": 45
     },
     {
       "category": "Pisos",
       "name": "Papaya",
-      "amount": 40
+      "amount": 45
     },
     {
       "category": "Pisos",
       "name": "Citronella",
-      "amount": 40
+      "amount": 45
     },
     {
       "category": "Pisos",
       "name": "Limón verde",
-      "amount": 40
+      "amount": 45
     },
     {
       "category": "Pisos",
       "name": "Cherry",
-      "amount": 40
+      "amount": 45
     },
     {
       "category": "Pisos",
@@ -143,7 +143,7 @@
     {
       "category": "Piletas",
       "name": "Cloro Líquido 100%",
-      "amount": 90
+      "amount": 100
     }
   ]
 }
