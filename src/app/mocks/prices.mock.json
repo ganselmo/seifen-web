@@ -62,7 +62,7 @@
     },
     {
       "category": "Detergentes",
-      "name": "Limón",
+      "name": "Floral",
       "amount": 160
     },
     {
@@ -164,6 +164,31 @@
       "category": "Art. Limpieza",
       "name": "Esponja Económica fibralimp",
       "amount": 45
+    },
+    {
+      "category": "Art. Limpieza",
+      "name": "Bolsa de residuos Limpito 45*60 X 10",
+      "amount": 100
+    },
+    {
+      "category": "Art. Limpieza",
+      "name": "Bolsa de residuos Limpito 50*70 X 10",
+      "amount": 140
+    },
+    {
+      "category": "Art. Limpieza",
+      "name": "Bolsa de residuos Limpito 60*100 X 10",
+      "amount": 230
+    },
+    {
+      "category": "Art. Limpieza",
+      "name": "Bolsa de residuos Limpito 80*110 X 10",
+      "amount": 350
+    },
+    {
+      "category": "Art. Limpieza",
+      "name": "Bolsa de residuos Limpito 90*120 X 10",
+      "amount": 500
     }
   ]
 }
