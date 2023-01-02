@@ -3,17 +3,17 @@
     {
       "category": "Jabón de ropa",
       "name": "Azul Fresh",
-      "amount": 150
+      "amount": 190
     },
     {
       "category": "Jabón de ropa",
       "name": "Verde Manzana",
-      "amount": 150
+      "amount": 190
     },
     {
       "category": "Suavizante",
       "name": "Blanco Nieve",
-      "amount": 160
+      "amount": 190
     },
     {
       "category": "Suavizante",
@@ -63,17 +63,17 @@
     {
       "category": "Detergentes",
       "name": "Limón",
-      "amount": 150
+      "amount": 160
     },
     {
       "category": "Jabón de Manos",
       "name": "Dove",
-      "amount": 120
+      "amount": 160
     },
     {
       "category": "Jabón de Manos",
       "name": "H&S",
-      "amount": 120
+      "amount": 160
     },
     {
       "category": "Pisos",
@@ -128,17 +128,12 @@
     {
       "category": "Pisos",
       "name": "Proce",
-      "amount": 60
+      "amount": 90
     },
     {
       "category": "Lavandina",
       "name": "Lavandina Líquida",
-      "amount": 60
-    },
-    {
-      "category": "Lavandina",
-      "name": "Lavandina Ropa Blanca",
-      "amount": 150
+      "amount": 75
     },
     {
       "category": "Piletas",
