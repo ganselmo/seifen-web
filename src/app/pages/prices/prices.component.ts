@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { PricesService } from 'src/app/services/prices.service';
+import { ProductsService } from 'src/app/services/products.service';
 import { CategoryKey } from 'src/app/types/category-key.model';
 
 
@@ -10,16 +10,12 @@ import { CategoryKey } from 'src/app/types/category-key.model';
 })
 export class PricesComponent implements OnInit {
 
-  categories: CategoryKey[] = []
+  categories: CategoryKey[]
 
-  constructor(private pricesService: PricesService) { }
+  constructor(private productsService: ProductsService) { }
 
-  ngOnInit(): void {
-
-    this.categories = this.pricesService.getPricesByCategory()
-
-
-
+  async ngOnInit(): Promise<void> {
+  this.categories = await this.productsService.getProductsFromDB();
   }
 
 

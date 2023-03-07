@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { PricesComponent } from './prices/prices.component';
 import { HomeComponent } from './home/home.component';
 import { OffersComponent } from './offers/offers.component';
-import { PricesModule } from '../prices/prices.module';
+import { ProductModule } from '../products/products.module';
 
 
 
@@ -15,7 +15,7 @@ import { PricesModule } from '../prices/prices.module';
   ],
   imports: [
     CommonModule,
-    PricesModule
+    ProductModule
   ]
 })
 export class PagesModule { }

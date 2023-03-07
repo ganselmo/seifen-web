@@ -1,6 +1,6 @@
-import { Price } from "./price.model";
+import { Product } from "./product.model";
 
 export interface CategoryKey {
   name: string;
-  prices: Price[]
+  products: Product[]
 }
